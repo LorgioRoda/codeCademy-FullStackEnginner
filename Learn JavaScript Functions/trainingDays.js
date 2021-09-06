@@ -46,3 +46,8 @@ const name2 = "Warren";
 
 logEvent(name2, event2);
 logTime(name2, days2);
+
+
+
+
+
