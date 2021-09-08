@@ -1,6 +1,6 @@
 # HI THERE 👋🏼
 
-Welcome to my CodeCademy repository, where you can see my code, progress and projects. If you have any questions about my repository I have written a FAQ section. Enjoy it!
+Welcome to my CodeCademy repository, where you can see my code, progress and projects. Enjoy it!
 
 ### Let's go
 
