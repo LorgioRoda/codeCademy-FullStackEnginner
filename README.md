@@ -1,4 +1,4 @@
-**HI THERE 👋🏼**
+##**HI THERE 👋🏼**
 
 Welcome to my repository about my study on CodeCademy in this repository you should watch my code, progress and my expertice studting on Codecademy, in especial my projects.
 If you have any question about my repository I writed a section below FAQ, enjoy it.
